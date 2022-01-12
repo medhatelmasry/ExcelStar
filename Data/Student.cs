@@ -56,6 +56,7 @@ namespace ExcelStar.Data
                 new Student() { Id = ++ndx, FirstName="Kay", LastName="Aga", School="Tourism" },
                 new Student() { Id = ++ndx, FirstName="Reo", LastName="Hui", School="Business" },
                 new Student() { Id = ++ndx, FirstName="Bob", LastName="Roe", School="Medicine" },
+                new Student() { Id = ++ndx, FirstName="Eva", LastName="Chu", School="Computing" },
             };
             return students;
         }
